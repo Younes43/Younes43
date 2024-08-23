@@ -52,6 +52,5 @@ I'm a Software Engineer with a Master's degree in Computer Science from Georgia 
 
 ### 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younes-elbouzekraoui)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Younes43)
-[![Web](https://img.shields.io/badge/Web-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white)](https://younes43.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elbouzekraoui.younes@gmail.com)
 
