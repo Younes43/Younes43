@@ -79,7 +79,7 @@
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/younes43)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=c59de0e6f4a148ba)
 
 </div>
 
