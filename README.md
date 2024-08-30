@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-<iframe src="https://younes43.github.io/interactive-terminal.html" width="100%" height="300px"></iframe>
-</div>
-
-<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=younes43&style=for-the-badge&color=brightgreen)](https://github.com/younes43)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/younes-elbouzekraoui)
