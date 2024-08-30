@@ -76,10 +76,6 @@
 
 <div align="center">
 
-![Younes's GitHub stats](https://github-readme-stats.vercel.app/api?username=younes43&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younes43&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=younes43&theme=radical)](https://git.io/streak-stats)
 
 </div>
@@ -94,30 +90,6 @@
 <div align="center">
 
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
-</div>
-
----
-
-<div align="center">
-  <h3>🌱 My Coding Journey</h3>
-</div>
-
-<div align="center">
-
-[![Younes's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=younes43&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=younes43&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
