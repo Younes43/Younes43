@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+<iframe src="https://younes43.github.io/interactive-terminal.html" width="100%" height="300px"></iframe>
+</div>
+
+<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=younes43&style=for-the-badge&color=brightgreen)](https://github.com/younes43)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/younes-elbouzekraoui)
@@ -21,13 +25,13 @@
 </p>
 
 <div align="center">
-  
+
   🎓 **Master's in Computer Science** from Georgia Tech
-  
+
   💻 Transforming caffeine into code since 2017
-  
+
   🌟 Turning wild ideas into elegant solutions
-  
+
 </div>
 
 ---
@@ -51,7 +55,6 @@
 
 </div>
 
-
 ---
 
 <div align="center">
@@ -63,12 +66,27 @@
 
 | Project Nebula | Tech Stack | Description |
 |:--------------:|:----------:|:-----------:|
-| 🌌 [Vehicule Detection & Tracking in Real Time](https://github.com/Younes43/Vehicule_Detection_Tracking) | Python, C, TensorFlow | Deep Learning Pipeline for detecting and tracking vehicules real time ysing YOLO and DeepSort Models  |
-| 🚀 [Chat Room Platform](https://github.com/Younes43/Chat-Room-Platform) | Node.js, React.js , Express.js, MongoDB | Scalable Social Media application supporting user authentication (signup, login, logout), messaging, and message voting, supporting concurrent multi-user interactions|
-| 🧠 [Bouncing Ball: Client-Server WebRTC Protocol](https://github.com/Younes43/Bouncing-Ball-Tracker-Client-Server-Application) | Python, WebRTC, Docker, Kubernetees, OpenCv  | Real-time bouncing ball tracker using WebRTC for communication between a client and a server |
+| 🌌 [Vehicle Detection & Tracking in Real Time](https://github.com/Younes43/Vehicule_Detection_Tracking) | Python, C, TensorFlow | Deep Learning Pipeline for detecting and tracking vehicles in real time using YOLO and DeepSort Models  |
+| 🚀 [Chat Room Platform](https://github.com/Younes43/Chat-Room-Platform) | Node.js, React.js, Express.js, MongoDB | Scalable Social Media application supporting user authentication (signup, login, logout), messaging, and message voting, supporting concurrent multi-user interactions|
+| 🧠 [Bouncing Ball: Client-Server WebRTC Protocol](https://github.com/Younes43/Bouncing-Ball-Tracker-Client-Server-Application) | Python, WebRTC, Docker, Kubernetes, OpenCV  | Real-time bouncing ball tracker using WebRTC for communication between a client and a server |
 
 </div>
 
+---
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+</div>
+
+<div align="center">
+
+![Younes's GitHub stats](https://github-readme-stats.vercel.app/api?username=younes43&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younes43&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=younes43&theme=radical)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -79,7 +97,31 @@
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/37i9dQZF1DX5trt9i14X7j?si=c59de0e6f4a148ba)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+
+</div>
+
+---
+
+<div align="center">
+  <h3>🌱 My Coding Journey</h3>
+</div>
+
+<div align="center">
+
+[![Younes's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=younes43&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=younes43&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -102,8 +144,11 @@
 
 <div align="center">
   <h3>Let's build something extraordinary together! 🚀</h3>
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/younes-elbouzekraoui)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:elbouzekraoui.younes@gmail.com)
 
 </div>
+
+<!-- Snake Animation -->
+![snake gif](https://github.com/younes43/younes43/blob/output/github-contribution-grid-snake.gif)
