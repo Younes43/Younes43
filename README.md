@@ -16,9 +16,6 @@
   <h2>🚀 Software Alchemist | Code Poet | Tech Innovator 🚀</h2>
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</p>
 
 <div align="center">
 
